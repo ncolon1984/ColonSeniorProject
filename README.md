@@ -16,7 +16,7 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
 
-[How to Start Building Credit from Scratch](youtube.com/watch?v=dW77CWoUW_Q)
+[How to Start Building Credit from Scratch](https://www.youtube.com/watch?v=dW77CWoUW_Q)
 [Build Credit Score](https://www.youtube.com/watch?v=eghPxmv4uYw)
 [Credit Cards 101](https://www.youtube.com/watch?v=0ddgrHehprk)
 [Credit Cards: Mistakes](https://www.youtube.com/watch?v=gM0bCqpv3No&t=3s)
